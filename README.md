@@ -5,7 +5,7 @@ I'm passionate about building scalable solutions, optimizing systems, and design
 
 ## 🚀 A bit about me
 
-- 🧑‍💻 I mainly work with **Node.js**, **TypeScript**, **PostgreSQL**, and **AWS** (Lambda, S3, API Gateway, DynamoDB, among others).
+- 🧑‍💻 I mainly work with **Node.js**, **TypeScript**, **PostgreSQL**, and **AWS** (Lambda, SNS, SQS, S3, API Gateway, DynamoDB, among others).
 - ⚙️ I have hands-on experience setting up **CI/CD**, managing infrastructure as code with **Serverless Framework** and **CDK**, and maintaining highly available systems.
 - 🛠 I also enjoy optimizing databases, improving SQL queries, and designing robust data models.
 - 🌱 I'm currently sharpening my skills to become a technical reference in my team, while preparing for the **AWS Solutions Architect - Professional** certification.
