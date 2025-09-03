@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Maria
 
-✨ I'm a backend developer from Peru with experience in Node.js, AWS, and DevOps.  
-I'm passionate about building scalable solutions, optimizing systems, and designing efficient cloud infrastructures. I also love continuously learning and sharing knowledge.
+✨ I'm a backend developer from Peru with experience in Node.js, TypeScript, AWS, and DevOps.  
+I'm passionate about building scalable solutions, optimizing systems and designing efficient cloud infrastructures. I also love continuously learning and sharing knowledge.
 
 ## 🚀 A bit about me
 
